@@ -4,9 +4,9 @@
 
 # Sekilas Malang DevCamp 2016
 
-Malang Dev Camp 2016 adalah sebuah acara non-profit yang dikemas dalam suasana camp yang berlangsung selama dua hari satu malam. Dalam acara ini, para web developer khususnya para Developer PHP akan berkumpul untuk mendiskusikan berbagai macam hal seputar web development. Selain itu acara ini juga juga dikemas dengan kegiatan outbound guna meningkatkan solidaritas antar developer.
+Malang Dev Camp 2016 adalah sebuah acara yang dikemas dalam suasana camp yang berlangsung selama dua hari satu malam. Dalam acara ini, para web developer khususnya para Developer PHP akan berkumpul untuk mendiskusikan berbagai macam hal seputar web development. Selain itu acara ini juga juga dikemas dengan kegiatan outbound guna meningkatkan solidaritas antar developer.
 
-Dengan mengusung tema "Back to Native", kami berharap dapat memberikan konsep dasar pemrograman PHP yang siap dipakai di dunia kerja kepada para peserta. Sehingga para peserta dapat mengimplementasikan konsep-konsep dasar tersebut pada saat bekerja.
+Dengan mengusung tema "Back to Native", kami berharap dapat memberikan konsep dasar design pattern MVC pada pemrograman PHP yang siap dipakai di dunia kerja kepada para peserta. Sehingga para peserta dapat mengimplementasikan konsep-konsep dasar tersebut pada saat bekerja.
 
 - - - 
 
