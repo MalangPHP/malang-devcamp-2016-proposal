@@ -6,13 +6,13 @@
 
 Malang Dev Camp 2016 adalah sebuah acara yang dikemas dalam suasana camp yang berlangsung selama dua hari satu malam. Dalam acara ini, para web developer khususnya para Developer PHP akan berkumpul untuk mendiskusikan berbagai macam hal seputar web development. Selain itu acara ini juga juga dikemas dengan kegiatan outbound guna meningkatkan solidaritas antar developer.
 
-Dengan mengusung tema "Back to Native", kami berharap dapat memberikan konsep dasar design pattern MVC pada pemrograman PHP yang siap dipakai di dunia kerja kepada para peserta. Sehingga para peserta dapat mengimplementasikan konsep-konsep dasar tersebut pada saat bekerja.
+Dengan mengusung tema ***"Back to Native"***, kami berharap dapat memberikan konsep dasar design pattern MVC pada pemrograman PHP yang siap dipakai di dunia kerja kepada para peserta. Sehingga para peserta dapat mengimplementasikan konsep-konsep dasar tersebut pada saat bekerja.
 
 - - - 
 
 # Siapa Malang PHP User Group
 
-Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang perkembangan teknologi khususnya di bidang web development. Kami rutin mengadakan meetup setiap bulan dengan menghadirkan developer-developer terbaik di Kota Malang dan sekitarnya. Kami selalu membahas topik-topik hangat yang diulas oleh para praktisi dan profesional. Dalam memperingati ulang tahun Malang PHP User Group yang pertama, kami selaku Organizer Malang PHP User Group akan mengadakan acara khusus yang kami namakan __Malang Dev Camp 2016__.
+Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang perkembangan teknologi khususnya di bidang web development. Kami rutin mengadakan meetup setiap bulan dengan menghadirkan developer-developer terbaik di Kota Malang dan sekitarnya. Kami selalu membahas topik-topik hangat yang diulas oleh para praktisi dan profesional. Dalam memperingati ulang tahun Malang PHP User Group yang pertama, kami selaku *organizer* Malang PHP User Group akan mengadakan acara khusus yang kami namakan __Malang Dev Camp 2016__.
 
 - - -
 
@@ -79,7 +79,11 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 * Logo di seluruh media dengan ukuran besar dan utama/atas
 * Gratis tiket untuk 5 orang peserta
 
+- - -
 
+# Keuntungan bagi Sponsor
+
+Acara ini tidak mungkin terlaksana tanpa adanya Anda sebagai sponsor yang memungkinkan kami untuk meminimalisir biaya yang kami bebankan kepada peserta. Kami sangat mengharapkan Anda untuk dapat membantu kami dalam berbagi pengalaman dengan komunitas.  Dengan berbagi pengalaman bersama komunitas, Anda dapat merekrut web developer yang berkualitas khususnya developer PHP. Selain itu dengan membantu acara ini dapat meningkatkan image perusahaan anda di dalam komunitas. Apapun kebutuhan Anda, kami ingin membantu Anda mencapai tujuan Anda.
 
 
 
