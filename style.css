@@ -1,7 +1,84 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700);
+/*@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700);*/
+
+@font-face {
+    font-family: 'ProximaNova-Black';
+    src: url('fonts/ProximaNova-Black.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Bold';
+    src: url('fonts/ProximaNova-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-BoldIt';
+    src: url('fonts/ProximaNova-BoldIt.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Extrabold';
+    src: url('fonts/ProximaNova-Extrabold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Light';
+    src: url('fonts/ProximaNova-Light.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-LightItalic';
+    src: url('fonts/ProximaNova-LightItalic.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-RegItalic';
+    src: url('fonts/ProximaNova-RegItalic.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Regular';
+    src: url('fonts/ProximaNova-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-RegularItalic';
+    src: url('fonts/ProximaNova-RegularItalic.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Semibold';
+    src: url('fonts/ProximaNova-Semibold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-SemiboldItalic';
+    src: url('fonts/ProximaNova-SemiboldItalic.otf');
+    font-weight: normal;
+    font-style: normal;
+}
 
 * {
-    font-family: "Source Sans Pro";
+    font-family: "ProximaNova-Regular";
 }
 h1 {
     color: #49b2e1;
