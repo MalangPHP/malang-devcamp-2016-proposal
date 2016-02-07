@@ -76,9 +76,11 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 | 13.45 - 14.15 | Introducing to practice                               |
 | 14.15 - 15.00 | Pembagian tim untuk peserta (Assign penanggung jawab) |
 | 15.00 - 15.45 | ISHO (Istirahat dan Sholat)                           |
-| 15.45 - 20.00 | Membuat aplikasi ringan berbasis MVC                  |
-| 20.00 - 22.00 | Presentasi peserta                                    |
-| 22.00 - drop  | Burn your food and gadget                             |
+| 16.00 - 17.00 | Sponsor Slot 1                                        |
+| 17.00 - 18.00 | Sponsor Slot 2                                        |
+| 18.00 - 22.00 | Membuat aplikasi ringan berbasis MVC                  |
+| 22.00 - 00.00 | Presentasi peserta                                    |
+| 00.00 - drop  | Burn your food and gadget                             |
 
 - - -
 
@@ -112,7 +114,7 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 * Nominal: IDR 20,000,000
 * 1 slot
 * Disandingkan dengan nama acara kami
-* Berkesempatan memberikan materi / sebagai speaker selama 1 minggu paket acara kami (meetup included)
+* Berkesempatan memberikan materi / sebagai speaker untuk 3 rangkaian acara kami (Termasuk acara utama)*
 * Logo di seluruh media dengan ukuran besar dan utama/atas
 * Gratis tiket untuk 5 orang
 
@@ -122,7 +124,7 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 
 * Nominal: IDR 10,000,000
 * 2 slot
-* Berkesempatan memberikan materi / sebagai speaker selama 1 minggu paket acara kami (meetup included)
+* Berkesempatan memberikan materi / sebagai speaker untuk 3 rangkaian acara kami (Termasuk acara utama)*
 * Logo di seluruh media dengan ukuran besar
 * Gratis tiket untuk 2 orang
 
@@ -150,6 +152,8 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 * Nominal: bebas
 * Slot *unlimited*
 * Nama donator akan ditampilkan di web ofisial Malang DevCamp dan ucapan terima kasih, berikut disebutkan melalui sosial media.
+ 
+***Note:*** * *Kami mengadakan meetup untuk para developer pada tanggal 6 Maret 2016 (Meetup Malang PHP) & 11 Maret 2016 (Meetup Malang Frontend Developer)*
 
 - - - 
 
