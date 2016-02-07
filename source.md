@@ -105,55 +105,50 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 | Biaya Tidak Terduga       | 1         | 5,000,000 | IDR 5,000,000     |
 | Total                     |           |           | IDR 20,000,000    |
 
-- - -  
-
-# Sponsor Package
-
-* Platinum (IDR 20,000,000)
-* Gold (IDR 10,000,000)
-* Silver (IDR 5,000,000)
-* Bronze (IDR 500,000 - 4,999,999)
-* Donation (Sukarela)
-
 - - -
 
 # Sponsor Package: Platinum
 
-* IDR 20,000,000
+* Nominal: IDR 20,000,000
+* 1 slot
 * Disandingkan dengan nama acara kami
 * Berkesempatan memberikan materi / sebagai speaker selama 1 minggu paket acara kami (meetup included)
 * Logo di seluruh media dengan ukuran besar dan utama/atas
-* Gratis tiket untuk 5 orang peserta
+* Gratis tiket untuk 5 orang
 
 - - -
 
 # Sponsor Package: Gold
 
-* IDR 10,000,000
+* Nominal: IDR 10,000,000
+* 2 slot
 * Berkesempatan memberikan materi / sebagai speaker selama 1 minggu paket acara kami (meetup included)
 * Logo di seluruh media dengan ukuran besar
-* Gratis tiket untuk 2 orang peserta
+* Gratis tiket untuk 2 orang
 
 - - - 
 
 # Sponsor Package: Silver
 
-- IDR 5,000,000
-- Logo di seluruh media dengan ukuran sedang
-- Gratis tiket untuk 1 orang peserta
+* Nominal: IDR 5,000,000
+* 4 slot
+* Logo di seluruh media dengan ukuran sedang
+* Gratis tiket untuk 1 orang
 
 - - -
 
 # Sponsor Package: Bronze
 
-* IDR 500,000 - 4,999,999
+* Nominal: IDR 500,000 - 4,999,999
+* Slot *unlimited*
 * Logo di seluruh media dengan ukuran kecil
 
 - - - 
 
 # Sponsor Package: Donation
 
-* Jumlah nominal donasi bebas
+* Nominal: bebas
+* Slot *unlimited*
 * Nama donator akan ditampilkan di web ofisial Malang DevCamp dan ucapan terima kasih, berikut disebutkan melalui sosial media.
 
 - - - 
