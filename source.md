@@ -153,7 +153,7 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 * Slot *unlimited*
 * Nama donator akan ditampilkan di web ofisial Malang DevCamp dan ucapan terima kasih, berikut disebutkan melalui sosial media.
  
-***Note:*** * *Kami mengadakan meetup untuk para developer pada tanggal 6 Maret 2016 (Meetup Malang PHP) & 11 Maret 2016 (Meetup Malang Frontend Developer)*
+<small>***Note:*** * *Kami mengadakan meetup untuk para developer pada tanggal 6 Maret 2016 (Meetup Malang PHP) & 11 Maret 2016 (Meetup Malang Frontend Developer)*</small>
 
 - - - 
 
