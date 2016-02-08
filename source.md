@@ -53,19 +53,30 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 
 # Rundown Acara Hari Pertama
 
-| Waktu         | Acara                                     |
-| ------------- | ----------------------------------------- |
-| 06.00 - 08.00 | Peserta berkumpul di tempat acara         |
-| 08.00 - 08.15 | Penjelasan rundown acara                  |
-| 08.15 - 08.30 | Materi 1 (Getting Started with MVC)       |
-| 08.30 - 08.45 | Sesi tanya jawab materi 1                 |
-| 08.45 - 09.45 | Materi 2 (Penjelasan tentang Controller)  |
-| 09.45 - 10.00 | Sesi tanya jawab materi 2                 |
-| 10.00 - 11.00 | Materi 3 (Penjelasan tentang Model)       |
-| 11.00 - 11.15 | Sesi tanya jawab materi 3                 |
-| 11.15 - 12.30 | ISHOMA (Istirahat, Sholat, dan Makan)     |
-| 12.30 - 13.30 | Materi 4 (Penjelasan tentang View)        |
-| 13.30 - 13.45 | Sesi tanya jawab materi 4                 |   
+| Waktu         | Acara                                                 |
+| ------------- | ----------------------------------------------------- |
+| 06.00 - 08.00 | Peserta berkumpul di tempat acara                     |
+| 08.00 - 08.15 | Penjelasan rundown acara                              |
+| 08.15 - 08.30 | Slot speaker sponsor 1                                |
+| 08.30 - 09.00 | Materi 1 (Getting Started with MVC)                   |
+| 09.00 - 09.15 | Sesi tanya jawab materi 1                             |
+| 09.15 - 09.30 | Slot speaker sponsor 2                                |
+| 09.30 - 10.30 | Materi 2 (Penjelasan tentang Controller)              |
+| 10.30 - 10.45 | Sesi tanya jawab materi 2                             |
+| 10.45 - 11.00 | Slot speaker sponsor 3                                |
+| 11.00 - 11.15 | Introducing to practice                               |
+| 11.15 - 11.30 | Pembagian tim untuk peserta (Assign penanggung jawab) |
+| 11.30 - 12.30 | ISHOMA (Istirahat, Sholat, dan Makan)                 |
+| 12.30 - 13.30 | Materi 3 (Penjelasan tentang Model)                   |
+| 13.30 - 13.45 | Sesi tanya jawab materi 3                             |
+| 13.45 - 14.00 | Slot speaker sponsor 4                                |
+| 14.00 - 15.00 | ISHO (Istirahat dan Sholat)                           |
+| 15.00 - 16.00 | Materi 4 (Penjelasan tentang View)                    |
+| 16.00 - 16.15 | Sesi tanya jawab materi 4                             |
+| 16.15 - 16.30 | Introducing to practice 2                             |
+| 16.30 - 20.00 | Membuat aplikasi ringan berbasis MVC                  |
+| 20.00 - 21.00 | Presentasi peserta                                    |
+| 21.00 - drop  | Burn your food and gadget                             |
 
 - - -
 
@@ -76,8 +87,6 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 | 13.45 - 14.15 | Introducing to practice                               |
 | 14.15 - 15.00 | Pembagian tim untuk peserta (Assign penanggung jawab) |
 | 15.00 - 15.45 | ISHO (Istirahat dan Sholat)                           |
-| 16.00 - 17.00 | Sponsor Slot 1                                        |
-| 17.00 - 18.00 | Sponsor Slot 2                                        |
 | 18.00 - 22.00 | Membuat aplikasi ringan berbasis MVC                  |
 | 22.00 - 00.00 | Presentasi peserta                                    |
 | 00.00 - drop  | Burn your food and gadget                             |
