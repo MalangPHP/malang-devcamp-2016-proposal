@@ -96,16 +96,17 @@ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang
 
 # Rencana Anggaran Dana
 
-| Item                      | Jumlah    | Harga     | Total             |
-| ------------------------- | --------- | --------- | ----------------- |
-| Tiket HTM                 | 50        | 250,000   | IDR 12,500,000    |
-| Konsumsi Tambahan         | 1         | 500,000   | IDR 500,000       |
-| Camp Kit - ID Card        | 50        | 5,000     | IDR 250,000       |
-| Camp Kit - Sertifikat     | 50        | 5,000     | IDR 250,000       |
-| Camp Kit - Stiker         | 50        | 10,000    | IDR 500,000       |
-| Akomodasi (Bensin dll)    | 1         | 1,000,000 | IDR 1,000,000     |
-| Biaya Tidak Terduga       | 1         | 5,000,000 | IDR 5,000,000     |
-| Total                     |           |           | IDR 20,000,000    |
+| Item                                    | Jumlah    | Harga     | Total             |
+| --------------------------------------- | --------- | --------- | ----------------- |
+| Camp Kit - ID Card                      | 50        | 5,000     | IDR 250,000       |
+| Camp Kit - Sertifikat                   | 50        | 5,000     | IDR 250,000       |
+| Camp Kit - Stiker                       | 50        | 10,000    | IDR 500,000       |
+| Akomodasi Peserta (Penginapan, dll)     | 50        | 250,000   | IDR 12,500,000    |
+| Akomodasi Speaker (Tiket pesawat, dll)  | 4         | 1,000,000 | IDR 4,000,000     |
+| Akomodasi Transport (Bensin, dll)       | 1         | 1,000,000 | IDR 1,000,000     |
+| Biaya Tidak Terduga                     | 1         | 1,000,000 | IDR 1,000,000     |
+| Konsumsi Tambahan                       | 1         | 500,000   | IDR 500,000       |
+| Total                                   |           |           | IDR 20,000,000    |
 
 - - -
 
